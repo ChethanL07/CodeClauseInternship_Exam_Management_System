@@ -1,0 +1,52 @@
+.create-examination {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #f9f9f9;
+    font-family: Arial, sans-serif;
+  }
+  
+  .create-examination h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .create-examination input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .create-examination button {
+    width: 100%;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .create-examination button:hover {
+    background-color: #45a049;
+  }
+  
+  .create-examination p {
+    text-align: center;
+    font-size: 14px;
+  }
+  
+  .create-examination p[style*="color: red"] {
+    color: #e74c3c;
+  }
+  
+  .create-examination p[style*="color: green"] {
+    color: #2ecc71;
+  }
+  

@@ -1,0 +1,39 @@
+.examinations {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #f9f9f9;
+    font-family: Arial, sans-serif;
+  }
+  
+  .examinations h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .examinations ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .examinations li {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .examinations li:last-child {
+    border-bottom: none;
+  }
+  
+  .examinations p {
+    text-align: center;
+    font-size: 14px;
+  }
+  
+  .examinations p[style*="color: red"] {
+    color: #e74c3c;
+  }
+  

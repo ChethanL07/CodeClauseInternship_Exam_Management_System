@@ -4,6 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
+/exam-management-backend/node_modules
 
 # testing
 /coverage

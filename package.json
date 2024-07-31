@@ -2,7 +2,7 @@
   "name": "exam-management",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://chethanl07.github.io/CodeClauseInternship_Exam_Management_System-",
+  "homepage": "https://chethanl07.github.io/CodeClauseInternship_Exam_Management_System",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",

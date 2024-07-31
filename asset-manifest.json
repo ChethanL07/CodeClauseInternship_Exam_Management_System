@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/CodeClauseInternship_Exam_Management_System/static/css/main.b2b0839f.css",
-    "main.js": "/CodeClauseInternship_Exam_Management_System/static/js/main.036dceda.js",
+    "main.js": "/CodeClauseInternship_Exam_Management_System/static/js/main.58ed8bf0.js",
     "static/js/239.da3ef70f.chunk.js": "/CodeClauseInternship_Exam_Management_System/static/js/239.da3ef70f.chunk.js",
     "static/js/213.e1e8fb13.chunk.js": "/CodeClauseInternship_Exam_Management_System/static/js/213.e1e8fb13.chunk.js",
     "static/js/732.c51d3e40.chunk.js": "/CodeClauseInternship_Exam_Management_System/static/js/732.c51d3e40.chunk.js",
     "index.html": "/CodeClauseInternship_Exam_Management_System/index.html",
     "main.b2b0839f.css.map": "/CodeClauseInternship_Exam_Management_System/static/css/main.b2b0839f.css.map",
-    "main.036dceda.js.map": "/CodeClauseInternship_Exam_Management_System/static/js/main.036dceda.js.map",
+    "main.58ed8bf0.js.map": "/CodeClauseInternship_Exam_Management_System/static/js/main.58ed8bf0.js.map",
     "239.da3ef70f.chunk.js.map": "/CodeClauseInternship_Exam_Management_System/static/js/239.da3ef70f.chunk.js.map",
     "213.e1e8fb13.chunk.js.map": "/CodeClauseInternship_Exam_Management_System/static/js/213.e1e8fb13.chunk.js.map",
     "732.c51d3e40.chunk.js.map": "/CodeClauseInternship_Exam_Management_System/static/js/732.c51d3e40.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b2b0839f.css",
-    "static/js/main.036dceda.js"
+    "static/js/main.58ed8bf0.js"
   ]
 }

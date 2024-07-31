@@ -1,0 +1,2 @@
+# CodeClauseInternship_Exam_Management_System
+  An Exam Management System designed for educational institutions to streamline exam administration. The system allows admins to set up exams, manage student groups, and send notifications. Students can register for exams, access their hall tickets, and submit answers online. The system provides real-time tracking of exam statuses and generates detailed performance reports.

@@ -1,0 +1,54 @@
+.groups {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #f9f9f9;
+    font-family: Arial, sans-serif;
+  }
+  
+  .groups h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .groups .error-message {
+    text-align: center;
+    color: #e74c3c;
+  }
+  
+  .groups .group-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .groups .group-item {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .groups .group-item:last-child {
+    border-bottom: none;
+  }
+  
+  .groups .group-item strong {
+    color: #3498db;
+  }
+  
+  .groups .student-list {
+    list-style-type: none;
+    padding-left: 20px;
+    margin: 10px 0;
+  }
+  
+  .groups .student-item {
+    padding: 5px 0;
+    border-bottom: 1px dashed #ccc;
+  }
+  
+  .groups .student-item:last-child {
+    border-bottom: none;
+  }
+  
